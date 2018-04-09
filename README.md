@@ -7,5 +7,7 @@ NowPlaying.py When run continuously, will listen to the radarlisboa.fm feed and 
 
 This is the "clean" version of the code. The "development" code is much uglier but is able to deal with everything Murphy related such as incorrectly tagged songs and all general f%ckups.
 
+The resulting playlist is this one: https://open.spotify.com/user/espalhabrasas/playlist/75PfAsbO2j06P9dzRvKvjJ?si=2-5MQA-_QsyADCitC1CWkw
+
 If you need help setting this up, feel free to gmail me at brunotiagorodrigues@
 If this made your day, BuyMeACoffee: https://www.buymeacoffee.com/nosuchuser 
